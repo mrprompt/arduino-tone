@@ -1,3 +1,8 @@
+/**
+ * Tone
+ *
+ * @author Thiago Paes <mrprompt@gmail.com>
+ **/
 int buzzer = 12;
 int led = 13;
 int button = 2;
